@@ -1,6 +1,6 @@
-# vue-project
+# MathType, CKeditor5 Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a simple demo with a MathType integrated on a CKeditor5 using Vue.  
 
 ## Recommended IDE Setup
 
